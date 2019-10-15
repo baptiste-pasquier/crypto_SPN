@@ -7,7 +7,22 @@ Etude d'une méthode de cryptanalyse différentielle sur le chiffrement à 4 tou
 Etude des caractéristiques nécessaires pour avoir un chiffrement efficace (uniformité différentielle, choix des permutations constituant l'algorithme de chiffrement).
 
 
+
+-----------------
+
+
+<img src="CipherFour.png" width = 400/>
+
+*Chiffrement à 4 tours*
+
+-----------------
+
+
 [Documentation](Beamer.pdf)
+
+
+
+
 
 
 Mots clés: 
